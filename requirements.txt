@@ -1,8 +1,3 @@
-<<<<<<< HEAD
 streamlit
 groq
 requests
-=======
-streamlit
-groq
->>>>>>> 06950be488c6207396075d9c408e86d22ad9a955
