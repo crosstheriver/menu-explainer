@@ -1,3 +1,4 @@
+
 from groq import Groq
 import json
 import streamlit as st
@@ -291,5 +292,6 @@ if run and menu_name:
             st.code(result)
 
 # ===== 空状态提示 =====
+
 elif run and not menu_name:
     st.warning("⚠️ 请输入菜名")
