@@ -121,7 +121,7 @@ menu_name:
 3. 每个字段 ≤ 3 句话
 4. 简洁、清晰、对普通用户友好
 5. image_keywords 必须英文
-6. normalized_name 用菜系所属语言
+6. normalized_name 用菜系所属语言，不要括号
 7. 输出必须是合法 JSON
 8. 如果识别不清，整体降级表达
 
